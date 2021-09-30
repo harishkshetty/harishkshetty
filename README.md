@@ -5,6 +5,8 @@
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harish K Shetty</h1>
 
+![](https://komarev.com/ghpvc/?username=harishkshetty&label=PROFILE+VIEWS)
+
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
