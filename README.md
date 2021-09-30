@@ -46,7 +46,6 @@
 
 <br />
 <br />
-
 ---
 
 [linkedin]: https://www.linkedin.com/in/harish-k-shetty-007a3892
